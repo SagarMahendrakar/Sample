@@ -6,6 +6,8 @@
 	<artifactId>happiestMind.Selenium</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Selenium</name>
+	
+
 
 	<dependencies>
 		<dependency>
